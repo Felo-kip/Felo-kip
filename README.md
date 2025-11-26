@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Felix Langat
 
-<!--
-**Felo-kip/Felo-kip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist and Machine Learning enthusiast with a strong interest in turning raw data into meaningful insights and practical solutions. I enjoy building end-to-end data projects—from cleaning and exploring datasets to developing predictive models and visualizing results. Always exploring new ways to solve problems with data.
+---
 
-Here are some ideas to get you started:
+## 🔍 About Me
+- ⚙️ Passionate about **machine learning**, **statistical modeling**, and **data analysis**
+- 📊 Skilled in **Python**, **Pandas**, **NumPy**, **Scikit-learn**, **Matplotlib/Seaborn**
+- 🧠 Interested in **AI**, **data-driven decision making**, and **automation**
+- 💡 Always exploring new tools, techniques, and real-world applications of data science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 What I Work On
+- 🧹 Data cleaning and preprocessing  
+- 📈 Exploratory data analysis (EDA)  
+- 🤖 Building machine learning models  
+- 📊 Data visualizations and storytelling  
+- 📂 End-to-end data projects & case studies
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Python, SQL  
+**ML/Data Tools:** Scikit-learn, Pandas, NumPy, Matplotlib, TensorFlow (beginner)  
+**Databases:** MySQL, PostgreSQL  
+**Other Tools:** Jupyter Notebook, Git/GitHub  
+
+---
+
+## 📘 Featured Projects
+- 🔗 *Add links here once you upload your projects*  
+- 📁 Movie Data Analysis  
+- 🤖 Predictive Models (Regression & Classification)  
+- 📊 Interactive Visualizations  
+
+---
+
+## 📫 Connect With Me
+Feel free to reach out or check out my work!
+
+- ✉️ Email: *felixklangat1@gmail.com*  
+- 💼 LinkedIn: *www.linkedin.com/in/felix-kipkurui-205a90396*  
+
+---
+
+Thanks for visiting my profile! 🚀  
+Always open to learning, collaborating, and building cool data projects.
