@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Felix Langat
+# 👋 Hi, I'm Felix Kipkurui
 
 I'm a Data Scientist and Machine Learning enthusiast with a strong interest in turning raw data into meaningful insights and practical solutions. I enjoy building end-to-end data projects—from cleaning and exploring datasets to developing predictive models and visualizing results. Always exploring new ways to solve problems with data.
 ---
